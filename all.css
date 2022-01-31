@@ -1,0 +1,27 @@
+body{
+    padding-top: 65px;
+}
+
+#sidebar{
+    background-color:  #b3e6b3;
+   
+}
+
+img{
+    width: 70%;
+}
+.skills{
+    border-bottom: 2px solid gray
+}
+.big{
+    background-color: whitesmoke;
+}
+.pb{
+   
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.dash{
+    margin: 30px;
+    border: 3px dashed #888844;
+}
